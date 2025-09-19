@@ -11,6 +11,5 @@
 </head>
 <body>
     <h1>Chào mừng bạn đến với web của tôi 🎉</h1>
-    <img src="anhlop.jpg" alt="Ảnh lớp">
 </body>
 </html>
